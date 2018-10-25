@@ -1,0 +1,11 @@
+/*Es igual de sencillo solo cambiando el interior*/
+
+public class AdiosMundo{
+
+	public static void main(String[] args){
+		
+		System.out.println("¡Adiós Mundo!"); 
+    //si usais un entorno como el de netbeans y pones System.err.println el adios mundo saldrá en rojo
+ 	}
+
+}
