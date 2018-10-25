@@ -5,6 +5,6 @@ intro hay que tabular. */
 public class HolaMundo{
   public static void main(String[] args){
 		
-		System.out.println("¿Hola Mundo!"); //System.ou.pprintln hace que imprima por pantalla lo que vaya entre comillas
-	}
+	System.out.println("¿Hola Mundo!"); //System.ou.pprintln hace que imprima por pantalla lo que vaya entre comillas
+  }
 }
